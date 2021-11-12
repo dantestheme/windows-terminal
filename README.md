@@ -1,6 +1,8 @@
+🎩 Monte Cristo for Windows Terminal 
+
 ## [Windows Terminal](https://github.com/microsoft/terminal)
 
-### Activating theme
+## Activating theme
 
 Start Windows Terminal and click on the down arrow symbol `˅` from menu bar. And you can see the settings menu. Or you can use `Ctrl + ,` to open Settings directly.
 
@@ -41,5 +43,5 @@ Change it to:
 
 ## More info.
 
-You can find more apps on ![Monte Cristo Theme Website](https://johndoe0153.github.io/monte-cristo-website/).  
-And you can also visit Github Page about this project to learn about more information from ![here](https://github.com/Johndoe0153/monte-cristo-theme).
+You can find more apps with Monte Cristo Theme in [this website](https://monte-cristos.github.io/monte-cristo-website/).  
+If you'd like to contribute to this theme, please visit our [Github](https://github.com/monte-cristos). You can also know about more informations too.
