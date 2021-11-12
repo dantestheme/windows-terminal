@@ -1,4 +1,4 @@
-🎩 Monte Cristo for Windows Terminal 
+# 🎩 Monte Cristo for Windows Terminal 
 
 ## [Windows Terminal](https://github.com/microsoft/terminal)
 
