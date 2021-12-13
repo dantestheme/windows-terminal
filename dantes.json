@@ -1,0 +1,23 @@
+{
+        "name": "dantes",
+        "cursorColor": "#FAFAFA",
+        "selectionBackground": "#3b4252",
+        "background": "#1d2128",
+        "foreground": "#FAFAFA",
+        "black": "#1C1D26",
+        "blue": "#0060E0",
+        "cyan": "#00d2ff",
+        "green": "#14eb96",
+        "purple": "#ff3ce1",
+        "red": "#f01900",
+        "white": "#FAFAFA",
+        "yellow": "#f5f500",
+        "brightBlack": "#005fff",
+        "brightBlue": "#42d3f2",
+        "brightCyan": "#42d3f2",
+        "brightGreen": "#30f1a0",
+        "brightPurple": "#9b27ff",
+        "brightRed": "#ff2e52",
+        "brightWhite": "#FFFFFF",
+        "brightYellow": "#fff94b"
+    }

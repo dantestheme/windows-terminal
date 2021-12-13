@@ -1,4 +1,4 @@
-# 🎩 Monte Cristo for Windows Terminal 
+# 🎩 Dantes for Windows Terminal 
 
 ## [Windows Terminal](https://github.com/microsoft/terminal)
 
@@ -6,7 +6,7 @@
 
 Start Windows Terminal and click on the down arrow symbol `˅` from menu bar. And you can see the settings menu. Or you can use `Ctrl + ,` to open Settings directly.
 
-In the `settings.json` settings file for Windows Terminal, find the `schemes` section and paste the content of `Monte-Cristo.json`.
+In the `settings.json` settings file for Windows Terminal, find the `schemes` section and paste the content of `dantes.json`.
 
 Once the color scheme has been defined, it's time to enable it. Find the `profiles` section and add a `colorScheme` value to the default profile.
 
@@ -43,5 +43,5 @@ Change it to:
 
 ## More info.
 
-You can find more apps with Monte Cristo Theme in [this website](https://monte-cristos.github.io/monte-cristo-website/).  
-If you'd like to contribute to this theme, please visit our [Github](https://github.com/monte-cristos). You can also know about more informations too.
+You can find more apps on [this website](https://dantestheme.github.io/dantes-website/).  
+If you'd like to contribute to this theme, please visit our [Github](https://github.com/dantestheme/dantes-theme). You can also know about more informations too.
